@@ -23,3 +23,11 @@ console.log(variableName);
 // 1. the name should be unique
 // 2. the name should not be any reserved keyword
 // 3. the name must start with a character, _, $.
+
+// String
+const exampleString = "Hello, World!";
+
+console.log(exampleString);
+
+const backticks = `Hello with backticks`;
+console.log(backticks);
